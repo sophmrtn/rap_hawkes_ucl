@@ -1,2 +1,2 @@
-# rap_hawkes_ucl
+# RAP @ Hawkes
 Repository for RAP @ Hawkes workshops
