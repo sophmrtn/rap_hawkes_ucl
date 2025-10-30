@@ -4,12 +4,12 @@
 
 This repository contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 
-Links for additional reading material and resources can be found on the `useful_links.md` page.
+Links for additional reading material and resources can be found on the [useful_links](resources/useful_links.md) page.
 
 ### **Overview**
 The series will include 10 hybrid workshops over the 2025-26 academic year.
 
-| Session | Month | Topic | Summary | Link to slides |
+| Session | Month | Topic | Summary | Slides |
 | :--- | :--- | :- | :- | :--- |
 | 1 ✅ | Oct | Introduction & Python best practices | Tips and tricks on managing Python projects. | |
 | 2 🔜 | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | |
@@ -22,7 +22,7 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 | 9 | Jun | | |
 | 10 | Jul | | |
 
-Slides, exercises and code related to each session can be found in the `sessions` folder.
+Slides, exercises and code related to each session can be found in the [sessions](sessions/) folder.
 
 ---
 
