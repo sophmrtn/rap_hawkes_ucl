@@ -43,7 +43,3 @@ Tools to ensure your code is clean and your documentation is easy to manage.
 | **Markdown All in One** | **Markdown Productivity.** Shortcuts, table of contents generation, and list editing features to speed up documentation and README creation. | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) |
 
 ---
-
-### 💡 Tip for Collaborators
-
-If you use VS Code, you can quickly install all recommended extensions for this project by using the **Extensions view**
