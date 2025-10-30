@@ -1,30 +1,29 @@
-# 🏗️ Reproducible Analytical Pipelines (RAP) @ Hawkes Workshop Materials
+# RAP @ Hawkes
+https://github.com/sophmrtn/rap_hawkes_ucl/blob/main/README.md
+<img src="files/readme_logo.png" alt="text that reads 'RAP @' next to the UCL Hawkes logo" width="25%" align="right" />
 
-This repository contains the materials, code, and exercises from the 2025 Workshops on Reproducible Analytical Pipelines (RAP). 
+This repository contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
 
-The goal of this repository is to provide a working example and reference for building analytical pipelines that are **reproducible, auditable, efficient, and of high quality**, following the best practices of software engineering.
+General links and useful resources can be found in the `resources` folder.
 
----
+### **Workshop content & structure**
+The series will include 10 hybrid workshops over the 2025-26 academic year.
 
-### **Overview: What is a RAP?**
-
-A Reproducible Analytical Pipeline (RAP) is an automated analytical process that replaces manual steps (like copy-pasting or drag-and-drop operations) with code.
-
-Key principles demonstrated in this workshop include:
-
-* **Python Best Practices:** Using python in a structured way to faciliated clean publications .
-* **UCL CS Cluster Team:** Tips, tricks and using the Cluster. 
-
----
-
-### **Workshop Content & Structure**
-
-The workshop was divided into **10** main sessions, with files corresponding to each topic located in the appropriate folders (e.g., `code`, `exercises`).
-
-| Session | Topic Covered | Key Skills / Files |
+| Session | Topic | Summary |
 | :--- | :--- | :--- |
-| **Session 1** | **Introduction to RAP & Python Best Practices** | Using python in a structured way to faciliated clean publications. |
-| **Session 2** | **UCL CS Cluster Team** | Tips, tricks and using the Cluster |
+| 1 | Introduction & Python best practices | Tips and tricks on managing Python projects. |
+| 2 | Cluster computing | How to efficiently utilise HPC resources + ask the experts! |
+| 3 | GitHub | Managing repositories |
+| 4 | | |
+| 5 | | |
+| 6 | | |
+| 7 | | |
+| 8 | | |
+| 9 | | |
+| 10 | | |
+
+
+Exercises and code related to each session can be found in the `sessions` folder.
 
 ---
 
