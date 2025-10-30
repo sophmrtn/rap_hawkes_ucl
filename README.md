@@ -34,5 +34,5 @@ To run the code and exercises from this workshop, you will need the following pr
 
 1.  **Software:**
     * **[Python]** (Version: **[e.g., 4.2.0 or 3.10]**)
-    * **[Your favourite IDE]** (Recommended Visual Studio Code)
+    * **[An IDE]** (We recommend Visual Studio Code)
     * **Git**
