@@ -25,5 +25,4 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 
 Exercises and code related to each session can be found in the `sessions` folder.
 
----isual Studio Code)
-    * **Git**
+---
