@@ -1,5 +1,5 @@
 # RAP @ Hawkes
-https://github.com/sophmrtn/rap_hawkes_ucl/blob/main/README.md
+
 <img src="files/readme_logo.png" alt="text that reads 'RAP @' next to the UCL Hawkes logo" width="25%" align="right" />
 
 This repository contains resources and materials for the Reproducible Analytical Pipelines (RAP) workshop series at the UCL Hawkes Institute. This series aims to promote good software engineering practices to enable collaboration between researchers across the Institute.
