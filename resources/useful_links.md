@@ -7,4 +7,4 @@
 | [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/) | Template, Package | Template for creating software packages
 | [scikit-surgery](https://github.com/SciKit-Surgery) | Library | Library of templates and tools for surgical navigation software development |
 | [Model Cards](https://www.kaggle.com/code/var0101/model-cards) | Website | Article describing the use of model cards |
-[ [Model Cards - Paper](https://arxiv.org/abs/1810.03993) | Paper | First introduction of model cards |
+| [Model Cards - Paper](https://arxiv.org/abs/1810.03993) | Paper | First introduction of model cards |
