@@ -25,13 +25,5 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 
 Exercises and code related to each session can be found in the `sessions` folder.
 
----
-
-### **Getting Started**
-
-To run the code and exercises from this workshop, you will need the following prerequisites installed on your machine:
-
-1.  **Software:**
-    * **[Python]** (Version: **[e.g., 4.2.0 or 3.10]**)
-    * **[An IDE]** (We recommend Visual Studio Code)
+---isual Studio Code)
     * **Git**
