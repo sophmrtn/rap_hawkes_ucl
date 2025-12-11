@@ -11,9 +11,9 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 
 | Session | Month | Topic | Summary | Slides |
 | :--- | :--- | :- | :- | :--- |
-| 1 ✅ | Oct | Introduction & Python best practices | Tips and tricks on managing Python projects. | |
-| 2 🔜 | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | |
-| 3 | Dec | GitHub | Managing repositories | |
+| 1 ✅ | Oct | Introduction & Python best practices | Tips and tricks on managing Python projects. | tbc* |
+| 2 ✅ | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | tbc* |
+| 3 ⌛️ | Dec | GitHub | Managing repositories | |
 | 4 | Jan | | |
 | 5 | Feb | | |
 | 6 | Mar | | |
@@ -22,7 +22,7 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 | 9 | Jun | | |
 | 10 | Jul | | |
 
-Slides, exercises and code related to each session can be found in the [sessions](sessions/) folder.
+Slides, exercises and code related to each session can be found in the [sessions](sessions/) folder. Video recordings of each session will be made available soon, if needed please contact [Lawrence](mailto:lawrence.binding@ucl.ac.uk) or [Sophie](mailto:sophie.a.martin@ucl.ac.uk).
 
 ---
 
