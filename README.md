@@ -13,7 +13,7 @@ The series will include 10 hybrid workshops over the 2025-26 academic year.
 | :--- | :--- | :- | :- | :--- |
 | 1 ✅ | Oct | Introduction & Python best practices | Tips and tricks on managing Python projects. | tbc* |
 | 2 ✅ | Nov | Cluster computing | How to efficiently utilise HPC resources + ask the experts! | tbc* |
-* Christmas break *
+| * | * | Christmas break | * | *
 | 3 ⌛️ | Jan | GitHub | Managing repositories | |
 | 4 | Feb | | |
 | 5 | Mar | | |
